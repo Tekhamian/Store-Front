@@ -1,0 +1,24 @@
+main{
+  /* pushes the footer down to bottom of page */
+  min-height: 80vh;
+}
+
+
+h5{
+  padding: 1rem 0;
+}
+
+h1{
+  font-size: 25px;
+}
+
+.list-group{
+  background-color: transparent;
+  border-style: none;
+  /* min-height: 33vh; */
+}
+
+/* Rating Stars */
+.rating span{
+  margin: 0.1rem;
+}
